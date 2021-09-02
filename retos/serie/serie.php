@@ -24,5 +24,7 @@ if($x<1 || $x>255 || $y<0 || $y>255){
 
 }
 echo hacerSumaSegunSerie(8,9);
+
 echo "desde el master solucionando conflictos";
+
 ?>
